@@ -1,0 +1,14 @@
+#footer {
+    position: fixed; /* Mantiene el pie de página fijo */
+    bottom: 0; /* Lo coloca en la parte inferior */
+    width: 100%; /* Hace que ocupe todo el ancho */
+    background-color: #333; /* Color de fondo del pie de página */
+    /* color: white; Color del texto */
+    text-align: center; /* Centra el contenido */
+    padding: 10px 0; /* Espaciado interno */
+    font-size: 14px; /* Tamaño del texto */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3); /* Sombra opcional para el diseño */
+}
+.colorletra{
+    color:#c9bf36
+}
